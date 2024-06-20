@@ -1,5 +1,14 @@
-# BoyerMoore-Algorithm
-This C++ code implements the Boyer-Moore string searching algorithm using two heuristic techniques: the bad character heuristic and the good suffix heuristic. These methods are designed to efficiently locate occurrences of a pattern within a text.
+# CPT212 Assignment 2
+
+### Group Members
+1. Najihah Hanani binti Ahmad Farid
+2. Bernadette Lee Pei Chen
+3. Khoo Iu Wan
+4. Nur Nabila binti Normiza Shahman
+
+### Boyer-Moore Algorithm
+
+The `boyermoore.cpp` file implements the Boyer-Moore string searching algorithm using two heuristic techniques: the bad character heuristic and the good suffix heuristic. These methods are designed to efficiently locate occurrences of a pattern within a text.
 
 1. **Bad Character Heuristic**: Preprocesses the pattern to efficiently handle mismatches by focusing on the last occurrence of characters in the pattern.
 
