@@ -1,9 +1,9 @@
 # CPT212 Assignment 2
 
 ### Group Members
-1. Najihah Hanani binti Ahmad Farid
-2. Bernadette Lee Pei Chen
-3. Khoo Iu Wan
+1. Bernadette Lee Pei Chen
+2. Khoo Iu Wan
+3. Najihah Hanani binti Ahmad Farid
 4. Nur Nabila binti Normiza Shahman
 
 ### Boyer-Moore Algorithm
